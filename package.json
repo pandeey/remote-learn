@@ -10,6 +10,10 @@
     "type": "git",
       "url": "git+https://github.com/pandeey/remote-learn"
   },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
